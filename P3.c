@@ -32,3 +32,34 @@ int main() {
   printf("Decrypted: %s", text);
   return 0;
 }
+
+/*
+Enter ciphertext: KHOOR ZRUOG
+O -> E
+R -> T
+G -> A
+H -> O
+K -> I
+U -> N
+Z -> S
+A -> H
+B -> R
+C -> D
+D -> L
+E -> C
+F -> U
+I -> M
+J -> W
+L -> F
+M -> G
+N -> Y
+P -> P
+Q -> B
+S -> V
+T -> K
+V -> J
+W -> X
+X -> Q
+Y -> Z
+Decrypted: IOEET STNEA
+*/

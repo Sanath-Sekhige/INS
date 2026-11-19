@@ -30,3 +30,10 @@ int main() {
   printf("Decrypted: %s\n", msg);
   return 0;
 }
+
+/*
+Enter plaintext: ATTACKATDAWN
+Enter key: LEMON
+Encrypted: LXFOPVEFRNHR
+Decrypted: ATTACKATDAWN
+*/

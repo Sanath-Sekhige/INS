@@ -27,3 +27,10 @@ int main() {
   printf("Decrypted: %s\n", plain);
   return 0;
 }
+
+/*
+Enter plaintext: COMPUTER
+Enter key (columns): 3
+Ciphertext: CPEOURMT
+Decrypted: COMPUTER
+*/
